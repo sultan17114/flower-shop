@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-around;
+    color: #272727;
+    font-size: 80px;
+    font-weight: 500;
+    background: rgba(229, 84, 115, 0.10);
+    height: 1800px;
+}
+
+.header-text {
+    align-items: center;
+    padding-bottom: 40px;
+}
+
+.header-shop {
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    gap: 10px;
+    font-size: 50px;
+    border: none;
+    color: white;
+}
+
+.flower-container {
+    width: 635px;
+    height: 800px;
+    padding-bottom: 300px;
+
+}
+
+section {
+    color: #272727;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    padding: 100px;
+}
+
+.container-section {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 200px;
+    align-items: center;
+
+}
+
+.images-section {
+    display: flex;
+    justify-content: space-around;
+    width: 764px;
+    height: 908px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    align-items: center;
+
+
+
+}
+
+
+
+.section-fresh {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 200px;
+    height: 950px;
+    margin: 0 auto;
+    width: 3500px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+}
+
+.section-img {
+    width: 188px;
+    height: 188px;
+    
+}
+
+.hotdeal-saleup {
+    display: flex;
+    justify-content: space-around;
+    background: rgba(229, 84, 115, 0.05);
+    align-items: center;
+    margin-top: 250px;
+    width: auto;
+    height: 900px;
+}
+
+.hot-flower {
+    height: 900px;
+}
+
+
+
+.img-section {
+    text-align: center;
+    margin-top: 120px;
+}
+
+.container-img {
+    display: flex;
+    margin-top: 200px;
+    padding-left: 900px;
+    margin-bottom: 150px;
+    gap: 90px;
+
+}
+
+.the-latest {
+    background-image: url(images/Rectangle\ 9.png);
+    background-size: cover;
+    height: 940px;
+    margin-top: 120px;
+    margin-left: 650px;
+    margin-right: 750px;
+    padding: 50px;
+
+
+}
+
+.hot-flowers {
+    height: 900px;
+}
+
+.email {
+    font-size: 70px;
+    width: 1700px;
+    height: 100px;
+    margin-top: 100px;
+
+}
+
+.footer-container {
+    text-align: center;
+    padding: 100px;
+    background-color: black;
+    color: white;
+    height: 500px;
+    font-size: 40px;
+    margin-top: 100px;
+
+}
+
+.footer-text {
+    color: #E55473;
+
+}
+
+.footer-p {
+    color: #FFFFFF66;
+}
